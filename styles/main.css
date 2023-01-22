@@ -31,7 +31,7 @@ nav ul li a{
     clear:both;
 }
 .stack{
-    background:#333;
+    background:#999;
     color:white;
     padding:.5%;
     float:left;
@@ -40,7 +40,7 @@ nav ul li a{
     border-radius: 5px;
 }
 .col{
-    background:#333;
+    background:#999;
     color:white;
     padding:.5%;
     float:left;
