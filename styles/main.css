@@ -30,6 +30,15 @@ nav ul li a{
 .row{
     clear:both;
 }
+.stack{
+    background:#333;
+    color:white;
+    padding:.5%;
+    float:left;
+    width: 93%;
+    margin:.5%;
+    border-radius: 5px;
+}
 .col{
     background:#333;
     color:white;
