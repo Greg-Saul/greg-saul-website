@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const width = 10;
     let nextRandom = 0;
     let timerId;
+    let end = 0;
     let score = 0;
     let level = 1;
     var colors = [
@@ -361,7 +362,8 @@ document.addEventListener('DOMContentLoaded', () => {
   
     //game over function
     function gameOver(){
-        if(current.some(index => squares[currentPosition + index].classList.contains('taken'))){
+        if((current.some(index => squares[currentPosition + index].classList.contains('taken'))) && end === 0){
+            end++;
             scoreDisplay.innerHTML = ' game over';
             clearInterval(timerId);
             leaderboard()
