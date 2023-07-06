@@ -1,1 +1,525 @@
-function _0x112b(_0x56807c,_0x5b65f7){const _0x5daeee=_0x5dae();return _0x112b=function(_0x112bb6,_0x11e587){_0x112bb6=_0x112bb6-0x1ca;let _0x147008=_0x5daeee[_0x112bb6];return _0x147008;},_0x112b(_0x56807c,_0x5b65f7);}const _0x5d5d89=_0x112b;(function(_0x493f23,_0x5d3e0b){const _0x104849=_0x112b,_0x48fe10=_0x493f23();while(!![]){try{const _0x23dafc=parseInt(_0x104849(0x209))/0x1*(-parseInt(_0x104849(0x206))/0x2)+parseInt(_0x104849(0x1cb))/0x3+-parseInt(_0x104849(0x1fa))/0x4*(parseInt(_0x104849(0x1ef))/0x5)+-parseInt(_0x104849(0x1ff))/0x6+-parseInt(_0x104849(0x1dc))/0x7*(-parseInt(_0x104849(0x1cd))/0x8)+-parseInt(_0x104849(0x20d))/0x9+-parseInt(_0x104849(0x1f8))/0xa*(-parseInt(_0x104849(0x1ec))/0xb);if(_0x23dafc===_0x5d3e0b)break;else _0x48fe10['push'](_0x48fe10['shift']());}catch(_0x1130b2){_0x48fe10['push'](_0x48fe10['shift']());}}}(_0x5dae,0x259d0),document[_0x5d5d89(0x1f7)]('DOMContentLoaded',()=>{const _0x43700b=_0x5d5d89,_0x2f3e6a=document[_0x43700b(0x1fc)](_0x43700b(0x202));let _0x2fcb7a=Array['from'](document['querySelectorAll'](_0x43700b(0x1d5)));const _0x39e392=document[_0x43700b(0x1fc)]('#score'),_0x18cd84=document[_0x43700b(0x1fc)](_0x43700b(0x207));let _0x335700=new Audio(_0x43700b(0x1ee));const _0x3fdbe7=0xa;let _0x51adf5=0x0,_0x35b91a,_0xf7fe0c=0x0,_0x1931d4=0x0,_0xd4e6f4=0x1;var _0x2a1e8e=[_0x43700b(0x213),'radial-gradient(circle,\x20rgb(100,\x20100,\x20100),\x20rgb(100,\x20100,\x20100),\x20#464646)',_0x43700b(0x210),_0x43700b(0x1fd),_0x43700b(0x1e2),'radial-gradient(circle,\x20rgb(149,\x20172,\x20207),\x20rgb(149,\x20172,\x20207),\x20#688291)','radial-gradient(circle,\x20rgb(230,\x20123,\x20222),\x20rgb(230,\x20123,\x20222),\x20#8f56a1)'];_0x3aaa94(),_0x224869();const _0x4b6175=[[0x1,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1,0x2],[_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7*0x2+0x2],[0x1,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1,_0x3fdbe7*0x2],[_0x3fdbe7,_0x3fdbe7*0x2,_0x3fdbe7*0x2+0x1,_0x3fdbe7*0x2+0x2]],_0x477f59=[[0x0,0x1,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1],[_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2,0x2],[_0x3fdbe7*0x2+0x2,0x1,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1],[_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7*0x2]],_0x3b81d2=[[_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7*0x2,_0x3fdbe7*0x2+0x1],[0x0,_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1],[_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7*0x2,_0x3fdbe7*0x2+0x1],[0x0,_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1]],_0x2025fb=[[0x0,0x1,_0x3fdbe7+0x1,_0x3fdbe7+0x2],[0x1,_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7*0x2],[0x0,0x1,_0x3fdbe7+0x1,_0x3fdbe7+0x2],[0x1,_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7*0x2]],_0x50c4e0=[[0x1,_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2],[0x1,_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7*0x2+0x1],[_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7*0x2+0x1],[0x1,_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1]],_0xfcba72=[[0x0,0x1,_0x3fdbe7,_0x3fdbe7+0x1],[0x0,0x1,_0x3fdbe7,_0x3fdbe7+0x1],[0x0,0x1,_0x3fdbe7,_0x3fdbe7+0x1],[0x0,0x1,_0x3fdbe7,_0x3fdbe7+0x1]],_0x2edeab=[[0x1,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1,_0x3fdbe7*0x3+0x1],[_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7+0x3],[0x1,_0x3fdbe7+0x1,_0x3fdbe7*0x2+0x1,_0x3fdbe7*0x3+0x1],[_0x3fdbe7,_0x3fdbe7+0x1,_0x3fdbe7+0x2,_0x3fdbe7+0x3]],_0x11afc7=[_0x4b6175,_0x477f59,_0x3b81d2,_0x2025fb,_0x50c4e0,_0xfcba72,_0x2edeab];let _0x41945d=0x4,_0x43a21a=0x0,_0x8c48e0=Math[_0x43700b(0x1ea)](Math[_0x43700b(0x1e7)]()*_0x11afc7[_0x43700b(0x1d2)]),_0x560c57=_0x11afc7[_0x8c48e0][_0x43a21a];function _0x2e2368(){_0x560c57['forEach'](_0x47bccd=>{const _0x111d13=_0x112b;_0x2fcb7a[_0x41945d+_0x47bccd][_0x111d13(0x1ed)][_0x111d13(0x20e)](_0x111d13(0x20a)),_0x2fcb7a[_0x41945d+_0x47bccd][_0x111d13(0x1da)][_0x111d13(0x200)]=_0x2a1e8e[_0x8c48e0];});};function _0x5648dc(){const _0x1ddfb2=_0x43700b;_0x560c57[_0x1ddfb2(0x1d7)](_0x273792=>{const _0x5b8a45=_0x1ddfb2;_0x2fcb7a[_0x41945d+_0x273792]['classList'][_0x5b8a45(0x1d0)](_0x5b8a45(0x20a)),_0x2fcb7a[_0x41945d+_0x273792][_0x5b8a45(0x1da)][_0x5b8a45(0x200)]='';});}function _0x5b5560(_0x168fc0){const _0x194766=_0x43700b;if(_0x168fc0[_0x194766(0x212)]===0x25)_0x1b5f0f();else{if(_0x168fc0[_0x194766(0x212)]===0x44)_0x42aded();else{if(_0x168fc0['keyCode']===0x41)_0x562f28();else _0x168fc0[_0x194766(0x212)]===0x27&&_0x499fd9();}}}document[_0x43700b(0x1f7)](_0x43700b(0x1d3),_0x5b5560);function _0x153087(_0x5f1967){const _0x4f8e69=_0x43700b;_0x5f1967[_0x4f8e69(0x212)]===0x28&&_0xb34cd0();}document[_0x43700b(0x1f7)](_0x43700b(0x1e0),_0x153087);function _0xb34cd0(){_0x5648dc(),_0x41945d+=_0x3fdbe7,_0x2e2368(),_0x45529f();}function _0x45529f(){const _0xd57e80=_0x43700b;_0x560c57['some'](_0x53188c=>_0x2fcb7a[_0x41945d+_0x53188c+_0x3fdbe7][_0xd57e80(0x1ed)][_0xd57e80(0x1fe)](_0xd57e80(0x1eb)))&&(_0x560c57['forEach'](_0x6f128c=>_0x2fcb7a[_0x41945d+_0x6f128c][_0xd57e80(0x1ed)][_0xd57e80(0x20e)](_0xd57e80(0x1eb))),_0x8c48e0=_0x51adf5,_0x51adf5=Math[_0xd57e80(0x1ea)](Math[_0xd57e80(0x1e7)]()*_0x11afc7[_0xd57e80(0x1d2)]),_0x560c57=_0x11afc7[_0x8c48e0][_0x43a21a],_0x41945d=0x4,_0x40a3ae(),_0x3dc3da(),_0x2e2368(),_0x9ffeee());}function _0x1b5f0f(){const _0x225966=_0x43700b;_0x5648dc();const _0x2a8b7a=_0x560c57['some'](_0x13f19b=>(_0x41945d+_0x13f19b)%_0x3fdbe7===0x0);if(!_0x2a8b7a)_0x41945d-=0x1;_0x560c57[_0x225966(0x1e5)](_0x1c737f=>_0x2fcb7a[_0x41945d+_0x1c737f][_0x225966(0x1ed)][_0x225966(0x1fe)](_0x225966(0x1eb)))&&(_0x41945d+=0x1),_0x2e2368();}function _0x499fd9(){const _0x28c03c=_0x43700b;_0x5648dc();const _0x4b80e9=_0x560c57[_0x28c03c(0x1e5)](_0x4a3d11=>(_0x41945d+_0x4a3d11)%_0x3fdbe7===_0x3fdbe7-0x1);if(!_0x4b80e9)_0x41945d+=0x1;_0x560c57[_0x28c03c(0x1e5)](_0x4249e6=>_0x2fcb7a[_0x41945d+_0x4249e6]['classList'][_0x28c03c(0x1fe)](_0x28c03c(0x1eb)))&&(_0x41945d-=0x1),_0x2e2368();}function _0x575a0b(_0x3d2044){const _0x186592=_0x43700b,_0x28c62a=_0x560c57[_0x186592(0x1e5)](_0x500547=>(_0x41945d+_0x500547)%_0x3fdbe7===_0x3fdbe7-0x1);_0x3d2044[_0x186592(0x1e5)](_0x12bca3=>(_0x41945d+_0x12bca3)%_0x3fdbe7===0x0)&&_0x28c62a&&(_0x42aded(),_0x499fd9(),_0x562f28());}function _0x201cdc(_0x2de729){const _0x4303f2=_0x43700b,_0x2d0eff=_0x560c57[_0x4303f2(0x1e5)](_0x431952=>(_0x41945d+_0x431952)%_0x3fdbe7===_0x3fdbe7-0x1);_0x2de729[_0x4303f2(0x1e5)](_0x46b3f4=>(_0x41945d+_0x46b3f4)%_0x3fdbe7===0x0)&&_0x2d0eff&&(_0x562f28(),_0x499fd9(),_0x42aded());}function _0x4407ef(_0x5da5d3){const _0x57b125=_0x43700b,_0x339ca1=_0x560c57['some'](_0x2b2b47=>(_0x41945d+_0x2b2b47)%_0x3fdbe7===0x0);_0x5da5d3[_0x57b125(0x1e5)](_0x2873f9=>(_0x41945d+_0x2873f9+0x1)%_0x3fdbe7===0x0)&&_0x339ca1&&(_0x42aded(),_0x1b5f0f(),_0x562f28());}function _0x2bddda(_0x481b6b){const _0x13077c=_0x43700b,_0x3e9223=_0x560c57[_0x13077c(0x1e5)](_0x255277=>(_0x41945d+_0x255277)%_0x3fdbe7===0x0);_0x481b6b[_0x13077c(0x1e5)](_0x170021=>(_0x41945d+_0x170021+0x1)%_0x3fdbe7===0x0)&&_0x3e9223&&(_0x42aded(),_0x1b5f0f(),_0x1b5f0f(),_0x562f28());}function _0x2a37a4(_0x241f54){const _0x540afc=_0x43700b,_0x379e1c=_0x560c57[_0x540afc(0x1e5)](_0x4f33f4=>(_0x41945d+_0x4f33f4)%_0x3fdbe7===0x0);_0x241f54[_0x540afc(0x1e5)](_0x5c569a=>(_0x41945d+_0x5c569a+0x1)%_0x3fdbe7===0x0)&&_0x379e1c&&(_0x562f28(),_0x1b5f0f(),_0x42aded());}function _0x3afa8b(_0x5ad3e4){const _0x32ecdd=_0x43700b,_0xcf0fab=_0x560c57[_0x32ecdd(0x1e5)](_0x52e244=>(_0x41945d+_0x52e244)%_0x3fdbe7===0x0);_0x5ad3e4[_0x32ecdd(0x1e5)](_0xc8f1ba=>(_0x41945d+_0xc8f1ba+0x1)%_0x3fdbe7===0x0)&&_0xcf0fab&&(_0x562f28(),_0x1b5f0f(),_0x1b5f0f(),_0x42aded());}function _0x562f28(){const _0x54b043=_0x43700b,_0x540370=_0x560c57[_0x54b043(0x1e5)](_0x4ac7a9=>(_0x41945d+_0x4ac7a9)%_0x3fdbe7===0x0),_0x5f0468=_0x560c57[_0x54b043(0x1e5)](_0x1b4cea=>(_0x41945d+_0x1b4cea)%_0x3fdbe7===_0x3fdbe7-0x1);_0x5648dc(),_0x43a21a--;_0x43a21a===-0x1&&(_0x43a21a=_0x560c57[_0x54b043(0x1d2)]-0x1);_0x560c57=_0x11afc7[_0x8c48e0][_0x43a21a];if(_0x5f0468&&(_0x560c57==_0x11afc7[0x6][0x1]||_0x560c57==_0x11afc7[0x6][0x3]))_0x2bddda(_0x560c57);else{if(_0x540370)_0x575a0b(_0x560c57);else _0x5f0468&&_0x4407ef(_0x560c57);}_0x2e2368();}function _0x42aded(){const _0xe6e168=_0x43700b,_0x3b2ae0=_0x560c57[_0xe6e168(0x1e5)](_0x3f8908=>(_0x41945d+_0x3f8908)%_0x3fdbe7===0x0),_0x39a678=_0x560c57[_0xe6e168(0x1e5)](_0x2578e7=>(_0x41945d+_0x2578e7)%_0x3fdbe7===_0x3fdbe7-0x1);_0x5648dc(),_0x43a21a++;_0x43a21a===_0x560c57[_0xe6e168(0x1d2)]&&(_0x43a21a=0x0);_0x560c57=_0x11afc7[_0x8c48e0][_0x43a21a];if(_0x39a678&&(_0x560c57==_0x11afc7[0x6][0x1]||_0x560c57==_0x11afc7[0x6][0x3]))_0x3afa8b(_0x560c57);else{if(_0x3b2ae0)_0x201cdc(_0x560c57);else _0x39a678&&_0x2a37a4(_0x560c57);}_0x2e2368();}const _0x49d74f=document[_0x43700b(0x208)](_0x43700b(0x1d9)),_0x3b6378=0x4;let _0x3db70a=0x0;const _0x16a123=[[0x1,_0x3b6378+0x1,_0x3b6378*0x2+0x1,0x2],[_0x3b6378,_0x3b6378+0x1,_0x3b6378*0x2+0x1,_0x3b6378*0x3+0x1],[_0x3b6378+0x1,_0x3b6378+0x2,_0x3b6378*0x2,_0x3b6378*0x2+0x1],[0x0,0x1,_0x3b6378+0x1,_0x3b6378+0x2],[0x1,_0x3b6378,_0x3b6378+0x1,_0x3b6378+0x2],[0x0,0x1,_0x3b6378,_0x3b6378+0x1],[0x1,_0x3b6378+0x1,_0x3b6378*0x2+0x1,_0x3b6378*0x3+0x1]];function _0x40a3ae(){const _0x4f642a=_0x43700b;_0x49d74f[_0x4f642a(0x1d7)](_0x5cc0a0=>{const _0x44e878=_0x4f642a;_0x5cc0a0[_0x44e878(0x1ed)]['remove']('tetrimino'),_0x5cc0a0[_0x44e878(0x1da)]['backgroundImage']='';}),_0x16a123[_0x51adf5][_0x4f642a(0x1d7)](_0x1a93df=>{const _0x3bcfb4=_0x4f642a;_0x49d74f[_0x3db70a+_0x1a93df][_0x3bcfb4(0x1ed)][_0x3bcfb4(0x20e)](_0x3bcfb4(0x20a)),_0x49d74f[_0x3db70a+_0x1a93df][_0x3bcfb4(0x1da)][_0x3bcfb4(0x200)]=_0x2a1e8e[_0x51adf5];});}_0x18cd84[_0x43700b(0x1f7)]('click',()=>{const _0x3b0f27=_0x43700b;_0x35b91a?(_0x222be(![]),clearInterval(_0x35b91a),_0x35b91a=null):(_0x222be(!![]),_0x2e2368(),_0x10afe7(),_0x51adf5=Math[_0x3b0f27(0x1ea)](Math[_0x3b0f27(0x1e7)]()*_0x11afc7[_0x3b0f27(0x1d2)]),_0x40a3ae());});function _0x3dc3da(){const _0x48e9f5=_0x43700b;for(let _0xea3d1=0x0;_0xea3d1<0xc7;_0xea3d1+=_0x3fdbe7){const _0x5a9e32=[_0xea3d1,_0xea3d1+0x1,_0xea3d1+0x2,_0xea3d1+0x3,_0xea3d1+0x4,_0xea3d1+0x5,_0xea3d1+0x6,_0xea3d1+0x7,_0xea3d1+0x8,_0xea3d1+0x9];if(_0x5a9e32[_0x48e9f5(0x1d1)](_0x1304fc=>_0x2fcb7a[_0x1304fc]['classList'][_0x48e9f5(0x1fe)]('taken'))){_0x1931d4+=0xa,_0x39e392[_0x48e9f5(0x20c)]=_0x1931d4,_0x5a9e32[_0x48e9f5(0x1d7)](_0x48bd44=>{const _0x209ee7=_0x48e9f5;_0x2fcb7a[_0x48bd44]['classList'][_0x209ee7(0x1d0)](_0x209ee7(0x1eb)),_0x2fcb7a[_0x48bd44][_0x209ee7(0x1ed)][_0x209ee7(0x1d0)]('tetrimino'),_0x2fcb7a[_0x48bd44][_0x209ee7(0x1da)][_0x209ee7(0x200)]='';});const _0x241495=_0x2fcb7a[_0x48e9f5(0x1d4)](_0xea3d1,_0x3fdbe7);_0x2fcb7a=_0x241495[_0x48e9f5(0x1dd)](_0x2fcb7a),_0x2fcb7a['forEach'](_0x4c4d85=>_0x2f3e6a[_0x48e9f5(0x1e4)](_0x4c4d85)),clearInterval(_0x35b91a),_0x10afe7();}}}function _0x9ffeee(){const _0x3285dd=_0x43700b;_0x560c57[_0x3285dd(0x1e5)](_0x41c5b8=>_0x2fcb7a[_0x41945d+_0x41c5b8]['classList'][_0x3285dd(0x1fe)]('taken'))&&_0xf7fe0c===0x0&&(_0xf7fe0c++,_0x39e392[_0x3285dd(0x20c)]=_0x3285dd(0x1de),clearInterval(_0x35b91a),_0x318284());}function _0x422e9f(){const _0x2aade8=_0x43700b;let _0x28a7d3=new Date(),_0x9d3106=_0x28a7d3[_0x2aade8(0x1ce)](),_0x561284=_0x28a7d3[_0x2aade8(0x203)]()+0x1,_0x2c9bf5=_0x28a7d3[_0x2aade8(0x201)](),_0x8e2c6c=_0x561284+'/'+_0x9d3106+'/'+_0x2c9bf5,_0x316516=prompt(_0x2aade8(0x1d8)+_0x1931d4+'\x0aenter\x20your\x20initials:\x20'),_0xf6176a=[_0x316516,_0x1931d4,_0x8e2c6c];console[_0x2aade8(0x1e1)](_0xf6176a);var _0x4cc302={'initials':_0xf6176a[0x0],'score':_0xf6176a[0x1],'date':_0xf6176a[0x2]},_0xdb2b9e=new FormData();_0xdb2b9e[_0x2aade8(0x1f5)](_0x2aade8(0x1db),JSON['stringify'](_0x4cc302));var _0x27a0b2=new XMLHttpRequest();_0x27a0b2['open'](_0x2aade8(0x1f2),'https://script.google.com/macros/s/AKfycbzM1VIjSQXt56ajS3rB4zg92mIWAk_W1GWlFE5Y_LfZ08wS2YfobPSB837t8pfZBMWe/exec',!![]),_0x27a0b2[_0x2aade8(0x1e6)](_0xdb2b9e),_0x3aaa94();}function _0x3aaa94(){const _0x1876e0=_0x43700b,_0xaf2a3a=new XMLHttpRequest();_0xaf2a3a[_0x1876e0(0x1d6)](_0x1876e0(0x204),_0x1876e0(0x1fb)),_0xaf2a3a[_0x1876e0(0x214)]='json',_0xaf2a3a['send'](),_0xaf2a3a[_0x1876e0(0x1f4)]=function(){const _0x258599=_0x1876e0;let _0x44eb3d=_0xaf2a3a[_0x258599(0x1f3)];document['getElementById']('initial2')[_0x258599(0x20c)]=_0x44eb3d['rankings'][0x0][_0x258599(0x1f6)],document[_0x258599(0x1ca)]('initial3')[_0x258599(0x20c)]=_0x44eb3d['rankings'][0x1]['initial'],document[_0x258599(0x1ca)](_0x258599(0x1f1))['innerHTML']=_0x44eb3d[_0x258599(0x1db)][0x2][_0x258599(0x1f6)],document[_0x258599(0x1ca)](_0x258599(0x215))[_0x258599(0x20c)]=_0x44eb3d['rankings'][0x3][_0x258599(0x1f6)],document[_0x258599(0x1ca)]('initial6')[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x4][_0x258599(0x1f6)],document[_0x258599(0x1ca)](_0x258599(0x1f9))['innerHTML']=_0x44eb3d[_0x258599(0x1db)][0x0]['score'],document[_0x258599(0x1ca)]('score3')[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x1]['score'],document[_0x258599(0x1ca)]('score4')[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x2][_0x258599(0x1f0)],document[_0x258599(0x1ca)]('score5')[_0x258599(0x20c)]=_0x44eb3d['rankings'][0x3][_0x258599(0x1f0)],document[_0x258599(0x1ca)](_0x258599(0x211))['innerHTML']=_0x44eb3d[_0x258599(0x1db)][0x4][_0x258599(0x1f0)],document[_0x258599(0x1ca)]('date2')[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x0][_0x258599(0x1cf)],document['getElementById'](_0x258599(0x20f))[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x1][_0x258599(0x1cf)],document[_0x258599(0x1ca)](_0x258599(0x20b))[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x2][_0x258599(0x1cf)],document['getElementById']('date5')[_0x258599(0x20c)]=_0x44eb3d[_0x258599(0x1db)][0x3][_0x258599(0x1cf)],document[_0x258599(0x1ca)](_0x258599(0x1df))[_0x258599(0x20c)]=_0x44eb3d['rankings'][0x4][_0x258599(0x1cf)];};}function _0x318284(){const _0x5333aa=_0x43700b,_0x1e666d=new XMLHttpRequest();_0x1e666d[_0x5333aa(0x1d6)](_0x5333aa(0x204),'https://script.google.com/macros/s/AKfycbzse2ZEHKXYMDdQAzzuw-_liGz6BZtEO1nXJGx-WT9a0b1Am_xSPGnW_X-Hak7S4rnR/exec'),_0x1e666d[_0x5333aa(0x214)]='json',_0x1e666d[_0x5333aa(0x1e6)](),_0x1e666d[_0x5333aa(0x1f4)]=function(){const _0x51f8bb=_0x5333aa;let _0x4cd278=_0x1e666d['response'];_0x4cd278['rankings'][0x4][_0x51f8bb(0x1f0)]<_0x1931d4?(_0x422e9f(),setInterval(_0xc0096a,0x5dc)):_0xc0096a();};}function _0x224869(){const _0x80f6a7=_0x43700b,_0x992dfc=new XMLHttpRequest();_0x992dfc[_0x80f6a7(0x1d6)](_0x80f6a7(0x204),_0x80f6a7(0x1fb)),_0x992dfc[_0x80f6a7(0x214)]='json',_0x992dfc[_0x80f6a7(0x1e6)](),_0x992dfc[_0x80f6a7(0x1f4)]=function(){const _0xe8c98b=_0x80f6a7;let _0x57f613=_0x992dfc['response'];document[_0xe8c98b(0x1ca)](_0xe8c98b(0x1e9))[_0xe8c98b(0x20c)]=_0x57f613[_0xe8c98b(0x1db)][0x0][_0xe8c98b(0x1f0)];};}function _0xc0096a(){const _0x838bc4=_0x43700b;window[_0x838bc4(0x1d6)]('leaderboard4.html',_0x838bc4(0x205));}function _0x10afe7(){const _0x2c20eb=_0x43700b;if(_0x1931d4<=0x32)_0x35b91a=setInterval(_0xb34cd0,0x15e),_0xd4e6f4=0x1,document[_0x2c20eb(0x1ca)]('level')['innerHTML']=_0xd4e6f4;else{if(_0x1931d4>0x32&&_0x1931d4<=0x64)_0x35b91a=setInterval(_0xb34cd0,0x12c),_0xd4e6f4=0x2,document[_0x2c20eb(0x1ca)](_0x2c20eb(0x1e3))[_0x2c20eb(0x20c)]=_0xd4e6f4;else{if(_0x1931d4>0x64&&_0x1931d4<=0x96)_0x35b91a=setInterval(_0xb34cd0,0xfa),_0xd4e6f4=0x3,document[_0x2c20eb(0x1ca)]('level')[_0x2c20eb(0x20c)]=_0xd4e6f4;else{if(_0x1931d4>0x96&&_0x1931d4<=0xc8)_0x35b91a=setInterval(_0xb34cd0,0xdc),_0xd4e6f4=0x4,document[_0x2c20eb(0x1ca)](_0x2c20eb(0x1e3))[_0x2c20eb(0x20c)]=_0xd4e6f4;else{if(_0x1931d4>0xc8&&_0x1931d4<=0xfa)_0x35b91a=setInterval(_0xb34cd0,0xc8),_0xd4e6f4=0x5,document[_0x2c20eb(0x1ca)](_0x2c20eb(0x1e3))[_0x2c20eb(0x20c)]=_0xd4e6f4;else{if(_0x1931d4>0xfa&&_0x1931d4<=0x15e)_0x35b91a=setInterval(_0xb34cd0,0xb4),_0xd4e6f4=0x6,document[_0x2c20eb(0x1ca)]('level')[_0x2c20eb(0x20c)]=_0xd4e6f4;else _0x1931d4>0x15e?(_0x35b91a=setInterval(_0xb34cd0,0x96),_0xd4e6f4=0x7,document[_0x2c20eb(0x1ca)](_0x2c20eb(0x1e3))['innerHTML']=_0xd4e6f4):(_0x35b91a=setInterval(_0xb34cd0,0x15e),document[_0x2c20eb(0x1ca)](_0x2c20eb(0x1e3))['innerHTML']=_0xd4e6f4);}}}}}}function _0x222be(_0x5ba875){const _0x20b116=_0x43700b;var _0x31642a=document[_0x20b116(0x1ca)]('myCheck');if(_0x31642a['checked']==!![]&&_0x5ba875==!![])_0x335700['loop']=!![],_0x335700[_0x20b116(0x1cc)]();else _0x5ba875==![]?_0x335700[_0x20b116(0x1e8)]():_0x335700[_0x20b116(0x1e8)]();}}));function _0x5dae(){const _0x508057=['radial-gradient(circle,\x20rgb(74,\x20111,\x20165),\x20rgb(74,\x20111,\x20165),\x20#345b74)','score6','keyCode','radial-gradient(circle,\x20rgb(57,\x20184,\x20198),\x20rgb(57,\x20184,\x20198),\x20#28848b)','responseType','initial5','getElementById','440208CBgqze','play','12904xfpgfi','getDate','date','remove','every','length','keyup','splice','.grid\x20div','open','forEach','Your\x20score\x20was:\x20','.mini-grid\x20div','style','rankings','959DmhvOf','concat','\x20game\x20over','date6','keydown','log','radial-gradient(circle,\x20rgb(174,\x2031,\x2036),\x20rgb(174,\x2031,\x2036),\x20#7a161b)','level','appendChild','some','send','random','pause','hscore','floor','taken','1111TVdwSa','classList','sounds/Tetris.mp3','327795jGpNPG','score','initial4','POST','response','onload','append','initial','addEventListener','19350xoLKDg','score2','4xfjMvB','https://script.google.com/macros/s/AKfycbzse2ZEHKXYMDdQAzzuw-_liGz6BZtEO1nXJGx-WT9a0b1Am_xSPGnW_X-Hak7S4rnR/exec','querySelector','radial-gradient(circle,\x20rgb(223,\x2052,\x2057),\x20rgb(223,\x2052,\x2057),\x20#9c242b)','contains','912306AqQNSu','backgroundImage','getFullYear','.grid','getMonth','GET','_self','25094KOVSAW','#start-button','querySelectorAll','1DAhasv','tetrimino','date4','innerHTML','1610379XEUlDo','add','date3'];_0x5dae=function(){return _0x508057;};return _0x5dae();}
+document.addEventListener('DOMContentLoaded', () => {
+
+    const grid = document.querySelector('.grid');
+    let squares = Array.from(document.querySelectorAll(".grid div"))
+    const scoreDisplay = document.querySelector("#score")
+    const startBtn = document.querySelector("#start-button");
+    let music = new Audio ("sounds/Tetris.mp3");
+    const width = 10;
+    let nextRandom = 0;
+    let timerId;
+    let score = 0;
+    let level = 1;
+    var colors = [
+        'radial-gradient(circle, rgb(57, 184, 198), rgb(57, 184, 198), #28848b)',
+        'radial-gradient(circle, rgb(100, 100, 100), rgb(100, 100, 100), #464646)',
+        'radial-gradient(circle, rgb(74, 111, 165), rgb(74, 111, 165), #345b74)',
+        'radial-gradient(circle, rgb(223, 52, 57), rgb(223, 52, 57), #9c242b)',
+        'radial-gradient(circle, rgb(174, 31, 36), rgb(174, 31, 36), #7a161b)',
+        'radial-gradient(circle, rgb(149, 172, 207), rgb(149, 172, 207), #688291)',
+        'radial-gradient(circle, rgb(230, 123, 222), rgb(230, 123, 222), #8f56a1)'
+    ]
+    loadDoc();
+    hiScore();
+
+    //The tetriminos
+    const lTetrimino = [
+        [1, width + 1, width * 2 + 1, 2], 
+        [width, width + 1, width + 2, width * 2 + 2],
+        [1, width + 1, width * 2 + 1, width * 2],
+        [width, width * 2, width * 2 + 1, width * 2 + 2]
+    ];
+
+    const rLTetrimino = [
+      [0,  1, width + 1, width * 2 + 1],
+      [width, width + 1, width + 2, 2],
+      [width * 2 + 2, 1, width + 1, width * 2 + 1],
+      [width, width + 1, width + 2, width * 2]
+    ];
+
+    const zTetrimino = [
+        [width + 1, width + 2, width * 2, width * 2 + 1],
+        [0, width, width + 1, width * 2 + 1],
+        [width + 1, width + 2, width * 2, width * 2 + 1],
+        [0, width, width + 1, width * 2 + 1]
+    ];
+
+    const rZTetrimino = [
+      [0, 1, width + 1, width + 2],
+      [1, width, width + 1, width * 2],
+      [0, 1, width + 1, width + 2],
+      [1, width, width + 1, width * 2]
+    ];
+
+    const tTetrimino = [
+        [1, width, width + 1, width + 2],
+        [1, width + 1, width + 2, width * 2 + 1],
+        [width, width + 1, width + 2, width * 2 + 1],
+        [1, width, width + 1, width * 2 + 1]
+    ];
+
+    const oTetrimino = [
+        [0, 1, width, width + 1],
+        [0, 1, width, width + 1],
+        [0, 1, width, width + 1],
+        [0, 1, width, width + 1],
+    ];
+
+    const iTetrimino = [
+        [1, width + 1, width * 2 + 1, width * 3 + 1],
+        [width, width + 1, width + 2, width + 3],
+        [1, width + 1, width * 2 + 1, width * 3 + 1],
+        [width, width + 1, width + 2, width + 3]
+    ];
+
+    const theTetriminos = [lTetrimino, rLTetrimino, zTetrimino, rZTetrimino, tTetrimino, oTetrimino, iTetrimino];
+
+    let currentPosition = 4;
+    let currentRotation = 0;
+
+    //select random tetriminos
+    let random = Math.floor(Math.random()*theTetriminos.length);
+    //console.log(random);
+    let current = theTetriminos[random][currentRotation];
+
+    //draw the tetrimino
+    function draw(){
+        current.forEach(index => {
+            squares[currentPosition + index].classList.add('tetrimino')
+            squares[currentPosition + index].style.backgroundImage = colors[random]
+        })
+    };
+
+    //undraw the tetrimino
+    function undraw(){
+        current.forEach(index => {
+            squares[currentPosition + index].classList.remove("tetrimino")
+            squares[currentPosition + index].style.backgroundImage = ''
+
+        })
+    }
+
+
+    //make the tetriminos move down
+    //timerId = setInterval(moveDown, 300);
+
+    //assign keycodes
+    function control(e){
+        if(e.keyCode === 37){
+            moveLeft()
+        }
+        else if(e.keyCode === 68){
+            rotateR();
+        }
+        else if(e.keyCode === 65){
+            rotateL();
+        }
+        else if(e.keyCode === 39){
+            moveRight();
+        }
+        // else if(e.keyCode === 40){
+        //     moveDown();
+        // }
+    }
+    document.addEventListener('keyup', control);
+    function control2(e){
+        if(e.keyCode === 40){
+            moveDown();
+        }
+    }
+    document.addEventListener('keydown', control2);
+
+    // move down the block
+    function moveDown(){
+        undraw();
+        currentPosition += width;
+        draw()
+        freeze()
+    }
+
+    //freeze function
+    function freeze(){
+
+        if(current.some(index => squares[currentPosition + index + width].classList.contains('taken'))) {
+            current.forEach(index => squares[currentPosition + index].classList.add('taken'))
+            //start a new one falling
+            random = nextRandom;
+            nextRandom = Math.floor(Math.random() * theTetriminos.length)
+            current = theTetriminos[random][currentRotation]
+            currentPosition = 4
+
+            displayShape();
+            addScore();
+            draw();
+            gameOver();
+        }
+    }
+
+    //move left and such unless it is at the end
+    function moveLeft(){
+        undraw();
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+
+        if(!isAtLeftEdge) currentPosition -= 1;
+
+        if(current.some(index => squares[currentPosition + index].classList.contains('taken'))){
+            currentPosition += 1;
+        }
+        draw()
+    }
+
+    function moveRight(){
+        undraw();
+        const isAtRightEdge = current.some(index => (currentPosition + index) % width === width - 1)
+
+        if(!isAtRightEdge) currentPosition += 1;
+
+        if(current.some(index => squares[currentPosition + index].classList.contains('taken'))){
+            currentPosition -= 1;
+        }
+        draw()
+    }
+
+    //rotate
+    function checkRLLE(CR){ //rotate left, left edge
+        const isAtRightEdge = current.some(index => (currentPosition + index) % width === width - 1)
+        if((CR.some(index => (currentPosition + index) % width === 0)) && isAtRightEdge){
+            //document.getElementById("throwError").innerHTML = "Error 1";
+            rotateR()
+            moveRight()
+            rotateL()
+        }
+    }
+
+    function checkRRLE(CR){ //rotate right, left edge
+            const isAtRightEdge = current.some(index => (currentPosition + index) % width === width - 1)
+            if((CR.some(index => (currentPosition + index) % width === 0)) && isAtRightEdge){
+                //document.getElementById("throwError").innerHTML = "Error 1";
+                rotateL()
+                moveRight()
+                rotateR()
+            }
+        }
+
+    function checkRLRE(CR){ //rotate left, right edge
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+        if((CR.some(index => (currentPosition + index + 1) % width === 0)) && isAtLeftEdge){
+            //document.getElementById("throwError").innerHTML = "Error 1";
+            rotateR()
+            moveLeft()
+            rotateL()
+        }
+    }
+
+    function checkRLRELong(CR){ //rotate left, right edge, long
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+        if((CR.some(index => (currentPosition + index + 1) % width === 0)) && isAtLeftEdge){
+            //document.getElementById("throwError").innerHTML = "Error 1";
+            rotateR()
+            moveLeft()
+            moveLeft()
+            rotateL()
+        }
+    }
+
+
+
+    function checkRRRE(CR){ //rotate right, right edge
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+        if((CR.some(index => (currentPosition + index + 1) % width === 0)) && isAtLeftEdge){
+            //document.getElementById("throwError").innerHTML = "Error 2";
+            rotateL()
+            moveLeft()
+            rotateR()
+        }
+    }
+
+    function checkRRRELong(CR){ //rotate right, right edge, long
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+        if((CR.some(index => (currentPosition + index + 1) % width === 0)) && isAtLeftEdge){
+            //document.getElementById("throwError").innerHTML = "Error 2";
+            rotateL()
+            moveLeft()
+            moveLeft()
+            rotateR()
+        }
+    }
+
+    function rotateL(){
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+        const isAtRightEdge = current.some(index => (currentPosition + index) % width === width - 1)
+        undraw();
+        currentRotation--;
+        if(currentRotation === -1){
+            currentRotation = current.length - 1; 
+        }
+        current = theTetriminos[random][currentRotation]
+
+
+        if(isAtRightEdge && (current == theTetriminos[6][1] || current == theTetriminos[6][3])){
+            checkRLRELong(current) //rotate left, right edge, Long
+        }
+        else if(isAtLeftEdge){
+            //document.getElementById("throwError").innerHTML = "Error 4";
+            checkRLLE(current) //rotate left, left edge
+        }
+        else if(isAtRightEdge){
+            //document.getElementById("throwError").innerHTML = "Error 3";
+            checkRLRE(current) //rotate left, right edge
+        }
+        draw()
+    }
+
+    function rotateR(){
+        const isAtLeftEdge = current.some(index => (currentPosition + index) % width === 0)
+        const isAtRightEdge = current.some(index => (currentPosition + index) % width === width - 1)
+        undraw();
+        currentRotation++;
+        if(currentRotation === current.length){
+            currentRotation = 0; 
+        }
+        current = theTetriminos[random][currentRotation]
+
+        if(isAtRightEdge && (current == theTetriminos[6][1] || current == theTetriminos[6][3])){
+            checkRRRELong(current) //rotate right, right edge, Long
+        }
+        else if(isAtLeftEdge){
+            checkRRLE(current) //rotate right, left edge
+        }
+        else if(isAtRightEdge){
+            checkRRRE(current) //rotate right, right edge
+        }
+        draw()
+    }
+
+    //show next tetrimino
+    const displaySquares = document.querySelectorAll(".mini-grid div");
+    const displayWidth = 4;
+    let displayIndex = 0;
+
+    //the tetriminos w/o rotations
+    const nextUpTetriminos = [
+        [1, displayWidth + 1, displayWidth * 2 + 1, 2], //L
+        [displayWidth, displayWidth + 1, displayWidth * 2 + 1, displayWidth * 3 + 1], //RL
+        [displayWidth + 1, displayWidth + 2, displayWidth * 2, displayWidth * 2 + 1], //z
+        [0, 1, displayWidth + 1, displayWidth + 2], //Rz
+        [1, displayWidth, displayWidth + 1, displayWidth + 2], //t
+        [0, 1, displayWidth, displayWidth + 1],//o
+        [1, displayWidth + 1, displayWidth * 2 + 1, displayWidth * 3 + 1] //i
+    ]
+
+    //display the shape in the mini grid
+    function displayShape(){
+        displaySquares.forEach(square => {
+            square.classList.remove('tetrimino')
+            square.style.backgroundImage = ''
+        })
+        nextUpTetriminos[nextRandom].forEach( index => {
+            displaySquares[displayIndex + index].classList.add('tetrimino')
+            displaySquares[displayIndex + index].style.backgroundImage = colors[nextRandom]
+        })
+    }
+
+    //add functionality to the button
+
+    startBtn.addEventListener('click', () => {
+        if(timerId){
+            musicFunction(false);
+            clearInterval(timerId)
+            timerId = null;
+        }
+        else{//==============================================================================================
+            musicFunction(true);
+            draw();
+            speedLevel();
+            nextRandom = Math.floor(Math.random() * theTetriminos.length)
+            displayShape()
+        } 
+    })
+
+    //add score
+    function addScore(){
+        for (let i = 0; i < 199; i += width){
+            const row = [i, i + 1, i + 2, i + 3, i + 4, i + 5, i + 6, i + 7, i + 8, i + 9]
+
+            if(row.every(index => squares[index].classList.contains('taken'))){
+                score += 10;
+                scoreDisplay.innerHTML = score;
+                row.forEach(index => {
+                    squares[index].classList.remove('taken')
+                    squares[index].classList.remove('tetrimino')
+                    squares[index].style.backgroundImage = ''
+                })
+                const squaresRemoved = squares.splice(i, width)
+                squares = squaresRemoved.concat(squares)
+                squares.forEach(cell => grid.appendChild(cell));
+                clearInterval(timerId);
+                speedLevel();
+            }
+        }
+    }
+
+    //game over function
+    function gameOver(){
+        if(current.some(index => squares[currentPosition + index].classList.contains('taken'))){
+            scoreDisplay.innerHTML = ' game over';
+            clearInterval(timerId);
+            leaderboard()
+
+        }
+    }
+
+    function topScore(){
+      let today = new Date();
+      let day = today.getDate();
+      let month = today.getMonth() + 1;
+      let year = today.getFullYear();
+      let date = (month + "/" + day + "/" + year)
+      let init1 = prompt("Your score was: " + score + "\nenter your initials: ")
+      let data = [init1, score, date];
+
+      console.log(data);
+
+      var rankings = {
+          "initials":data[0],
+          "score":data[1],
+          "date":data[2]
+      };
+
+      var formData = new FormData();
+        formData.append("rankings", JSON.stringify(rankings));
+
+      var xhttp = new XMLHttpRequest();
+
+      xhttp.open("POST", "https://script.google.com/macros/s/AKfycbzM1VIjSQXt56ajS3rB4zg92mIWAk_W1GWlFE5Y_LfZ08wS2YfobPSB837t8pfZBMWe/exec", true);
+      //xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+      xhttp.send(formData);
+
+      loadDoc();
+    }
+
+    function loadDoc() {
+      const xhttp = new XMLHttpRequest();
+      xhttp.open("GET", "https://script.google.com/macros/s/AKfycbzse2ZEHKXYMDdQAzzuw-_liGz6BZtEO1nXJGx-WT9a0b1Am_xSPGnW_X-Hak7S4rnR/exec");
+      xhttp.responseType = "json";
+      xhttp.send();
+
+      xhttp.onload = function() {
+          let sheet = xhttp.response;
+          //console.log(sheet.rankings[4].score)
+
+          document.getElementById("initial2").innerHTML = sheet.rankings[0].initial;
+          document.getElementById("initial3").innerHTML = sheet.rankings[1].initial;
+          document.getElementById("initial4").innerHTML = sheet.rankings[2].initial;
+          document.getElementById("initial5").innerHTML = sheet.rankings[3].initial;
+          document.getElementById("initial6").innerHTML = sheet.rankings[4].initial;
+
+          document.getElementById("score2").innerHTML = sheet.rankings[0].score;
+          document.getElementById("score3").innerHTML = sheet.rankings[1].score;
+          document.getElementById("score4").innerHTML = sheet.rankings[2].score;
+          document.getElementById("score5").innerHTML = sheet.rankings[3].score;
+          document.getElementById("score6").innerHTML = sheet.rankings[4].score;
+
+          document.getElementById("date2").innerHTML = sheet.rankings[0].date;
+          document.getElementById("date3").innerHTML = sheet.rankings[1].date;
+          document.getElementById("date4").innerHTML = sheet.rankings[2].date;
+          document.getElementById("date5").innerHTML = sheet.rankings[3].date;
+          document.getElementById("date6").innerHTML = sheet.rankings[4].date;
+        };
+    }
+
+
+    function leaderboard(){
+      const xhttp = new XMLHttpRequest();
+      xhttp.open("GET", "https://script.google.com/macros/s/AKfycbzse2ZEHKXYMDdQAzzuw-_liGz6BZtEO1nXJGx-WT9a0b1Am_xSPGnW_X-Hak7S4rnR/exec");
+      xhttp.responseType = "json";
+      xhttp.send();
+
+      xhttp.onload = function() {
+          let sheet = xhttp.response;
+          if(sheet.rankings[4].score < score){
+              topScore();
+              setInterval(lbOpen, 1500);
+          }
+          else{ 
+              lbOpen();
+          }
+
+      }
+  }
+
+      function hiScore(){
+          const xhttp = new XMLHttpRequest();
+          xhttp.open("GET", "https://script.google.com/macros/s/AKfycbzse2ZEHKXYMDdQAzzuw-_liGz6BZtEO1nXJGx-WT9a0b1Am_xSPGnW_X-Hak7S4rnR/exec");
+          xhttp.responseType = "json";
+          xhttp.send();
+
+          xhttp.onload = function() {
+              let sheet = xhttp.response;
+              document.getElementById("hscore").innerHTML = sheet.rankings[0].score;
+
+              }
+          }
+
+      function lbOpen(){
+          window.open("leaderboard4.html", "_self");
+      }
+
+      function speedLevel(){
+          if (score <= 50){  //level1
+              timerId = setInterval(moveDown, 350);
+              level = 1;
+              document.getElementById("level").innerHTML = level;
+          }
+          else if(score > 50 && score <= 100){  //level2
+              timerId = setInterval(moveDown, 300);
+              level = 2;
+              document.getElementById("level").innerHTML = level;
+          }
+          else if(score > 100 && score <= 150){  //level3
+              timerId = setInterval(moveDown, 250);
+              level = 3;
+              document.getElementById("level").innerHTML = level;
+          }
+          else if(score > 150 && score <= 200){  //level4
+              timerId = setInterval(moveDown, 220);
+              level = 4;
+              document.getElementById("level").innerHTML = level;
+          }
+          else if(score > 200 && score <= 250){  //level5
+              timerId = setInterval(moveDown, 200);
+              level = 5;
+              document.getElementById("level").innerHTML = level;
+          }
+          else if(score > 250 && score <= 350){  //level6
+              timerId = setInterval(moveDown, 180);
+              level = 6;
+              document.getElementById("level").innerHTML = level;
+          }
+            else if(score > 350){  //level7
+                timerId = setInterval(moveDown, 150);
+                level = 7;
+                document.getElementById("level").innerHTML = level;
+            }
+          else{
+              timerId = setInterval(moveDown, 350);
+              document.getElementById("level").innerHTML = level;
+          }
+      }
+      function musicFunction(tOrF) {
+        // Get the checkbox
+        var checkBox = document.getElementById("myCheck");
+
+
+        if(checkBox.checked == true && tOrF == true){
+            music.loop = true;
+            music.play();
+        }
+        else if(tOrF == false){
+            music.pause();
+        }
+        else{
+            music.pause();
+        }
+      }   
+  })
